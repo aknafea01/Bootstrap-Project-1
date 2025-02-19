@@ -205,7 +205,6 @@ a.navbar-brand:hover .logo-header {
 }
 .welcome {
   width: 100%;
-  height: calc(100vh - 60vh - 86px);
   background-color: #fcfcfc;
 }
 .text-gradient {
